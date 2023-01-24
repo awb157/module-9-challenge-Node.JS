@@ -1,7 +1,4 @@
-# module-9-challenge-Node.JS
-
-# readme generator
-
+# readme gen
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   # Table of Contents
@@ -15,13 +12,13 @@
   
 
 ## Description
-In this project I used Node and index.js to make a professional Readme. Using index.js to build the layout/info so that I can use it for Future Readme layouts.
+entering info in terminal
 
 ## Installation
-npm i and node 
+
 
 ## Usage
-download package
+
 
 ## License
 MIT
@@ -30,7 +27,8 @@ MIT
 
 
 ## Test
+running and testing
 
-
-## Questions  
+## Questions
+ 
 
